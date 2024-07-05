@@ -1,0 +1,110 @@
+commentary_dict = {
+    0: [
+        "Dot ball, the batsman defends it back to the bowler.",
+        "No run, straight to the fielder at point.",
+        "Good length ball, the batsman leaves it alone.",
+        "Short ball, the batsman ducks under it.",
+        "Pushed to mid-off, no chance of a run.",
+        "Solid defense, no run.",
+        "Batsman plays and misses, dot ball.",
+        "Driven to covers, but straight to the fielder.",
+        "Batsman blocks it back to the bowler.",
+        "Played to mid-wicket, no run."
+    ],
+    1: [
+        "Single to the leg side, well run.",
+        "Quick single to mid-on.",
+        "Pushed to the off side for a single.",
+        "A gentle push to point, one run.",
+        "Tapped to third man, easy single.",
+        "Single taken to square leg.",
+        "Quick single to mid-wicket.",
+        "Driven to long-off for one.",
+        "Single to fine leg.",
+        "Single to deep cover."
+    ],
+    2: [
+        "Nice shot through the gap, two runs.",
+        "Double to the deep mid-wicket.",
+        "Driven through covers, two runs.",
+        "Pushed to deep square leg for a couple.",
+        "Two runs, well-placed shot.",
+        "Good running between the wickets, two runs.",
+        "A flick off the pads, two runs.",
+        "Pulled to deep mid-wicket for two.",
+        "Driven down the ground for a couple.",
+        "Two runs, well-judged shot."
+    ],
+    3: [
+        "Three runs, great placement.",
+        "Driven through the covers, three runs.",
+        "Shot to deep mid-wicket, three runs.",
+        "Well-timed shot, three runs.",
+        "Excellent running, three runs.",
+        "Three runs to deep extra cover.",
+        "Flicked through mid-wicket, three runs.",
+        "Driven to long-off, three runs.",
+        "Shot to deep point, three runs.",
+        "Three runs to deep square leg."
+    ],
+    4: [
+        "Four runs, great shot!",
+        "Driven through the covers, four runs.",
+        "Pulled to the boundary, four runs.",
+        "Sweetly timed, four runs.",
+        "Four runs to deep mid-wicket.",
+        "Edged and four runs to third man.",
+        "Great shot to deep square leg, four runs.",
+        "Four runs, straight down the ground.",
+        "Cut shot to point, four runs.",
+        "Swept to fine leg, four runs."
+    ],
+    6: [
+        "Six runs, huge hit!",
+        "Massive six, out of the park!",
+        "Straight down the ground for six.",
+        "Big hit, six runs.",
+        "Six over mid-wicket, great shot.",
+        "Cleared the boundary, six runs.",
+        "Six runs, incredible shot.",
+        "Pulled for six, excellent timing.",
+        "Six over long-off, fantastic hit.",
+        "Over the ropes, six runs."
+    ],
+    "out": [
+        "Bowled him, out!",
+        "Caught behind, out!",
+        "LBW, he's out!",
+        "Run out, he's gone!",
+        "Caught at mid-on, out!",
+        "Stumped, he's out!",
+        "Caught at slip, out!",
+        "Clean bowled, out!",
+        "Caught and bowled, out!",
+        "Caught at deep mid-wicket, out!"
+    ],
+    "no_ball": [
+        "No ball, free run coming up.",
+        "Overstepped, no ball called.",
+        "No ball, extra run awarded.",
+        "High full toss, no ball.",
+        "No ball for height, free run.",
+        "Front foot no ball, extra run.",
+        "No ball, fielding restrictions apply.",
+        "No ball, and a free run let's go!.",
+        "No ball, it's a free run.",
+        "Over the waist, no ball."
+    ],
+    "wide": [
+        "Wide ball, extra run.",
+        "Wide outside off, given wide.",
+        "Too wide, extra run awarded.",
+        "Wide down the leg side.",
+        "Wide ball, free run.",
+        "Wide, umpire stretches his arms.",
+        "Too far outside off, wide ball.",
+        "Down leg, called wide.",
+        "Wide ball, extra delivery.",
+        "Poor bowling, wide."
+    ]
+}
